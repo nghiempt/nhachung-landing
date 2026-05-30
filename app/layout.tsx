@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL ?? "https://nhachung.vn",
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://nhachung.niandemo.site",
   ),
   title: "Nhà Chung - Minh bạch thông tin, Vững niềm tin cư dân",
   description:
